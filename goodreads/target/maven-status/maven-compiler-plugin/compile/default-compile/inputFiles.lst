@@ -1,0 +1,7 @@
+/Users/Z00GWHV/Documents/goodreads/src/main/java/com/example/goodreads/GoodreadsApplication.java
+/Users/Z00GWHV/Documents/goodreads/src/main/java/com/example/goodreads/controller/BookController.java
+/Users/Z00GWHV/Documents/goodreads/src/main/java/com/example/goodreads/model/Book.java
+/Users/Z00GWHV/Documents/goodreads/src/main/java/com/example/goodreads/model/BookRowMapper.java
+/Users/Z00GWHV/Documents/goodreads/src/main/java/com/example/goodreads/repository/BookRepository.java
+/Users/Z00GWHV/Documents/goodreads/src/main/java/com/example/goodreads/service/BookH2Service.java
+/Users/Z00GWHV/Documents/goodreads/src/main/java/com/example/goodreads/service/BookService.java

@@ -1,0 +1,7 @@
+com/example/goodreads/service/BookService.class
+com/example/goodreads/repository/BookRepository.class
+com/example/goodreads/service/BookH2Service.class
+com/example/goodreads/model/Book.class
+com/example/goodreads/controller/BookController.class
+com/example/goodreads/GoodreadsApplication.class
+com/example/goodreads/model/BookRowMapper.class
